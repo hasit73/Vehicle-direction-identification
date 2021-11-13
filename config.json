@@ -1,0 +1,10 @@
+{
+    "shape": [416, 416],
+    "model-parameters":{
+		"model-weights":"../Yolo-detection/models/yolov4-tiny.weights",
+		"model-config":"../Yolo-detection/models/yolov4.cfg",
+		"model-names":"../Yolo-detection/models/coco.names"
+	
+	}
+}
+
